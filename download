@@ -1,0 +1,16 @@
+# Binarios e artefatos de compilacao
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dSYM/
+
+# Arquivos temporarios de editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
